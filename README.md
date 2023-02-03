@@ -8,6 +8,8 @@
 
 ### 🏫 Multi-Chatting-Using-kafka-and-Spring-WebSocket-with-SockJS-StompJS(Kafka와 Spring을 활용하여 양방향 통신 구현)
 
+---
+
 **프로젝트 설명** 
 
 - Spring WebSocket과 Kafka, SockJS, StompJS를 활용하여 양방향 통신 프로그램을 만들어보았습니다.
