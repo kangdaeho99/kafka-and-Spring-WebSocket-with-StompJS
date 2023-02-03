@@ -9,7 +9,8 @@
 
 **깃허브소스코드 :** [https://github.com/kangdaeho99/wesejong_public_portfolio](https://github.com/kangdaeho99/wesejong_public_portfolio)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f981aa71-2263-4cc0-9229-1567f0bce802/Untitled.png)
+<!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f981aa71-2263-4cc0-9229-1567f0bce802/Untitled.png) -->
+<img src="https://user-images.githubusercontent.com/48047377/216617569-a220dce7-2994-4c8e-ba01-cfab6d61bbce.png"/>
 
 **프로젝트 설명** 
 
@@ -59,14 +60,15 @@
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b671a44f-ecd1-4dbe-a25f-43fca954bc3e/Untitled.png)
+<!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b671a44f-ecd1-4dbe-a25f-43fca954bc3e/Untitled.png) -->
 
+<img src="https://user-images.githubusercontent.com/48047377/216617535-cf72ddd6-a68b-42cd-8716-0d58ea2f4411.png"/>
 [step 0].WebSocket 양방향 통신 확인을 위한 브라우저 크롬 1개, Internet Explorer 1개를 킵니다.
 
 [step 1].메세지를 보내고자 하는자가 “Message Check! I am sending it!”라고 발송합니다.
 
 [step 2].두개에 같은 메세지가 뜨는지 확인합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d93f602-3c76-4f2e-a95f-812e5fe1d6cc/Untitled.png)
-
+<!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d93f602-3c76-4f2e-a95f-812e5fe1d6cc/Untitled.png) -->
+<img src="https://user-images.githubusercontent.com/48047377/216617621-f25c93f4-ec87-450d-8882-3d2f2014316f.png"/>
 [step 3]. Kafka에 값이 올바르게 들어갔는지 확인합니다.
