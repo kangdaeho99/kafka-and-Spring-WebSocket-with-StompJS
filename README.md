@@ -6,7 +6,9 @@
 ---
 -->
 
-### 🏫 Multi-Chatting-Using-kafka-and-Spring-WebSocket-with-SockJS-StompJS(Kafka와 Spring을 활용하여 양방향 통신 구현)
+<!-- ### 🏫 Multi-Chatting-Using-kafka-and-Spring-WebSocket-with-SockJS-StompJS(Kafka와 Spring을 활용하여 양방향 통신 구현) -->
+
+### 🏫 Kafka와 Spring을 활용하여 양방향 통신 구현
 
 ---
 
