@@ -1,13 +1,12 @@
-# Multi-Chatting-Using-kafka-and-Spring-WebSocket-with-SockJS-StompJS
+<!-- # Multi-Chatting-Using-kafka-and-Spring-WebSocket-with-SockJS-StompJS -->
 
-
+<!--
 ## 👩🏻‍💻 토이 Projects
 
 ---
+-->
 
 ### 🏫 Multi-Chatting-Using-kafka-and-Spring-WebSocket-with-SockJS-StompJS(Kafka와 Spring을 활용하여 양방향 통신 구현)
-
-**깃허브소스코드 :** [https://github.com/kangdaeho99/wesejong_public_portfolio](https://github.com/kangdaeho99/wesejong_public_portfolio)
 
 <!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f981aa71-2263-4cc0-9229-1567f0bce802/Untitled.png) -->
 <img src="https://user-images.githubusercontent.com/48047377/216617569-a220dce7-2994-4c8e-ba01-cfab6d61bbce.png"/>
