@@ -36,6 +36,12 @@
 - Kafka를 Spring FrameWork with Java Configuration 환경에서 실행해보고자 Spring-Kafka QuickTour 레퍼런스를 참조하여 구현해보았습니다. ( [[Spring] Kafka [2](카프카 Quick Tour with Java Configuration)](https://passionfruit200.tistory.com/180) )
 - WebSocket with STOMP, SOCKJS 같은경우 이전에 구현경험이 있어 구현했습니다.
 
+
+**브로커 구성도**
+- 카프카 브로커 구성도입니다. AWS 프리티어로 1대로 구현했습니다.
+<img src="https://user-images.githubusercontent.com/48047377/216774815-00892c77-b519-48b6-91ed-ba7fe917333a.PNG"/>
+
+
 ## 📜 기술 스택
 
 ---
@@ -65,13 +71,16 @@
 
 <!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b671a44f-ecd1-4dbe-a25f-43fca954bc3e/Untitled.png) -->
 
-<img src="https://user-images.githubusercontent.com/48047377/216617535-cf72ddd6-a68b-42cd-8716-0d58ea2f4411.png"/>
 [step 0].WebSocket 양방향 통신 확인을 위한 브라우저 크롬 1개, Internet Explorer 1개를 킵니다.
 
 [step 1].메세지를 보내고자 하는자가 “Message Check! I am sending it!”라고 발송합니다.
 
 [step 2].두개에 같은 메세지가 뜨는지 확인합니다.
 
+<img src="https://user-images.githubusercontent.com/48047377/216617535-cf72ddd6-a68b-42cd-8716-0d58ea2f4411.png"/>
+
+
+[step 3]. Kafka에 값이 올바르게 들어갔는지 확인합니다.
 <!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d93f602-3c76-4f2e-a95f-812e5fe1d6cc/Untitled.png) -->
 <img src="https://user-images.githubusercontent.com/48047377/216617621-f25c93f4-ec87-450d-8882-3d2f2014316f.png"/>
-[step 3]. Kafka에 값이 올바르게 들어갔는지 확인합니다.
+
