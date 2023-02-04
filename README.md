@@ -37,8 +37,8 @@
 - WebSocket with STOMP, SOCKJS 같은경우 이전에 구현경험이 있어 구현했습니다.
 
 
-**브로커 구성도**
-- 카프카 브로커 구성도입니다. AWS 프리티어로 1대로 구현했습니다.
+**카프카 구성도**
+- 카프카 구성도입니다. AWS 프리티어로 1대로 구현했습니다.
 <img src="https://user-images.githubusercontent.com/48047377/216774815-00892c77-b519-48b6-91ed-ba7fe917333a.PNG"/>
 
 
