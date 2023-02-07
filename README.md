@@ -8,19 +8,13 @@
 
 <!-- ### 🏫 Multi-Chatting-Using-kafka-and-Spring-WebSocket-with-SockJS-StompJS(Kafka와 Spring을 활용하여 양방향 통신 구현) -->
 
-### 🏫 Kafka와 Spring 을 활용하여 양방향 통신 구현
-
----
-
-**프로젝트 설명** 
-
-- Spring WebSocket과 Kafka, SockJS, StompJS를 활용하여 양방향 통신 프로그램을 만들어보았습니다.
+## 🏫 Kafka와 Spring 을 활용하여 양방향 통신 구현
+> Spring WebSocket과 Kafka, SockJS, StompJS를 활용하여 양방향 통신 프로그램을 만들어보았습니다.
 
 <!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f981aa71-2263-4cc0-9229-1567f0bce802/Untitled.png) -->
 <img src="https://user-images.githubusercontent.com/48047377/216617569-a220dce7-2994-4c8e-ba01-cfab6d61bbce.png"/>
 
 **프로젝트 기획의도**
-
 - 이 프로젝트에서는 카프카 브로커 1대에 주키퍼가 관리하도록 하여 데이터를 분산시켜 처리하여 서버과부하를 막고, 서버안정성을 높이기 위한 방안 중 하나인 Kafka에 대해 알아보고자 만들어보았습니다.
 - AWS 프리티어 할당문제로 1대만 올렸습니다.
 
@@ -43,27 +37,33 @@
 
 
 ## 📜 기술 스택
+> 프론트엔드 기술스택은 다음과 같습니다. 
+- HTML/CSS, JAVASCRIPT
 
----
-
-### Front & Backend
-
+> 백엔드 기술스택은 다음과 같습니다.
 - java 1.8
 - Spring Framework 5.0.7
-- HTML/CSS, JAVASCRIPT
-- Kafka 1.0
+- Spring WebSocket (TCP Connection)
+- SockJS (WebSocket Emulation)
+- STOMPJS (Message Broker)
+- Kafka 1.0 (Message Broker)
 
-### Maven Added Library
-
+> 인프라 구조는 다음과 같습니다.
+- Spring Framework with Github Actions
+- AWS EC2 AML, Kafka, ZooKeeper
+  
+<!--  
+## 기술스택
 - **For Kafka :** Spring-Kafka
 - **For WebSocket** : Spring-WebSocket, Spring-Messaging, javax.websocket-api,
 - **For Data Format** : jackson-databind, jackson-dataformat-xml
-
 ### Infrastructure
-
 - Spring Framework with Github Actions
 - AWS EC2, Kafka, ZooKeeper
 - Apache Tomcat 9.0.30
+-->
+
+
 
 ## 🐕‍🦺 실행이미지
 
@@ -83,4 +83,3 @@
 [step 3]. Kafka에 값이 올바르게 들어갔는지 확인합니다.
 <!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d93f602-3c76-4f2e-a95f-812e5fe1d6cc/Untitled.png) -->
 <img src="https://user-images.githubusercontent.com/48047377/216617621-f25c93f4-ec87-450d-8882-3d2f2014316f.png"/>
-
