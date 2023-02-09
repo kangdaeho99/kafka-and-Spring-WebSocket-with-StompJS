@@ -30,7 +30,8 @@
 - Kafka란 무엇인가?에 대하여 알아보고자 Kafka 레퍼런스를 참조하여 블로그에 글을 남겨보았습니다. ([[Spring] Kafka [1] (카프카 Getting Started)](https://passionfruit200.tistory.com/178))
 - Kafka를 Spring FrameWork with Java Configuration 환경에서 실행해보고자 Spring-Kafka QuickTour 레퍼런스를 참조하여 구현해보았습니다. ( [[Spring] Kafka [2](카프카 Quick Tour with Java Configuration)](https://passionfruit200.tistory.com/180) )
 - WebSocket with STOMP, SOCKJS 같은경우 이전에 구현경험이 있어 구현했습니다.
-- AWS에서 Kafka의 접속포트, 접속IP 설정(config)파일, Zookeeper의 접속포트, 접속IP 설정(config)파일을 통하여 AWS의 인바운드, 아웃바운드와 같은 적절한 네트워크 설정을 통해 서버를 통해 서로 통신할 수 있게 구현했습니다.
+- AWS의 인바운드, 아웃바운드 설정을 통해 서버에 접속할 수 있습니다.
+- AWS에서 Kafka 실행시 접속포트, 접속IP 설정(config)파일, Zookeeper 실행시 접속포트, 접속IP 설정(config)을 통해 서버에 접속할 수 있습니다.
 
 
 **카프카 구성도**
