@@ -70,8 +70,6 @@
 
 ## 🐕‍🦺 실행이미지
 
----
-
 <!-- ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b671a44f-ecd1-4dbe-a25f-43fca954bc3e/Untitled.png) -->
 
 [step 0].WebSocket 양방향 통신 확인을 위한 브라우저 크롬 1개, Internet Explorer 1개를 킵니다.
