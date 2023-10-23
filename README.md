@@ -33,10 +33,12 @@
 - AWS의 인바운드, 아웃바운드 설정을 통해 서버에 접속할 수 있습니다.
 - AWS에서 Kafka 실행시 접속포트, 접속IP 설정(config)파일, Zookeeper 실행시 접속포트, 접속IP 설정(config)을 통해 서버에 접속할 수 있습니다.
 
-** 구성흐름 **
+<br/>
+**구성흐름**
 > WebSocket With Stomp와 Kafka가 함께 사용될때의 구성도입니다.
 <img src="https://user-images.githubusercontent.com/48047377/277248083-ae447634-6cad-475c-8921-aa04368dabd8.png"/>
 
+<br/>
 **카프카 구성도**
 - 카프카 구성도입니다. AWS 프리티어로 1대로 구현했습니다.
 <img src="https://user-images.githubusercontent.com/48047377/216774815-00892c77-b519-48b6-91ed-ba7fe917333a.PNG"/>
