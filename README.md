@@ -36,7 +36,7 @@
 <br/>
 
 **WebSocket & Kafka 구성도**
-> WebSocket With Stomp와 Kafka가 함께 사용될때의 구성도입니다.
+- WebSocket With Stomp와 Kafka가 함께 사용될때의 구성도입니다.
 <img src="https://user-images.githubusercontent.com/48047377/277248083-ae447634-6cad-475c-8921-aa04368dabd8.png"/>
 
 <br/>
